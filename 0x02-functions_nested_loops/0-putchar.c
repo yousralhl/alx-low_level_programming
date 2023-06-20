@@ -1,7 +1,12 @@
-#include <stdiio.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include 'main.c'
 
-int main ()
+int main (void)
 {
-printf ("_putchar \n");
+char res ;
+res = _putchar ;
+return res ;
 return 0;
 }
