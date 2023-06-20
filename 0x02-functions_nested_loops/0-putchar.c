@@ -5,8 +5,13 @@
 
 int main (void)
 {
-char res ;
-res = _putchar ;
-return res ;
+putchar ('_');
+putchar ('p');
+putchar ('u');
+putchar ('t');
+putchar ('c');
+putchar ('h');
+putchar ('a');
+putchar ('r');	
 return 0;
 }
